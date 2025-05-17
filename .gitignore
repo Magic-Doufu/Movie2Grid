@@ -1,0 +1,7 @@
+Lib*
+Scripts*
+*env*
+src
+output
+include
+__pycache__
